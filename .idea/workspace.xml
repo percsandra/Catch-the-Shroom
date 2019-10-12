@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a07d237-d9a4-4d92-bc80-9e611802a944" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CopRobber/Direction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Cop&amp;Robber/org/academiadecodigo/splicegirls/CopRobber/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cop&amp;Robber/org/academiadecodigo/splicegirls/CopRobber/Game.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CopRobber/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CopRobber/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CopRobber/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CopRobber/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570888937411</updated>
-      <workItem from="1570888941536" duration="8554000" />
+      <workItem from="1570888941536" duration="16196000" />
     </task>
     <servers />
   </component>
