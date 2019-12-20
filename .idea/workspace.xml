@@ -1,11 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a07d237-d9a4-4d92-bc80-9e611802a944" name="Default Changelist" comment="">
+    <list default="true" id="c9f3500b-7c6e-4bb5-b3f3-305ef57cb0d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/CatchTheShroom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/JavaSoundDemo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/simplegraphics.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CatchTheShroom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/JavaSoundDemo.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/MachinimaSound.com_-_Dance_of_the_Pixies.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CatchTheShroom/Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CatchTheShroom/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CatchTheShroom/MusicPlayer/MusicPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CatchTheShroom/Players/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CatchTheShroom/Players/PlayerCop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CatchTheShroom/Players/PlayerRobber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cop&amp;Robber.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Cop&amp;Robber.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cop&amp;Robber/META-INF/Cop&amp;Robber.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cop&amp;Robber/org/academiadecodigo/splicegirls/CopRobber/Direction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cop&amp;Robber/org/academiadecodigo/splicegirls/CopRobber/Direction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cop&amp;Robber/org/academiadecodigo/splicegirls/CopRobber/Field.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cop&amp;Robber/org/academiadecodigo/splicegirls/CopRobber/Field.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Cop&amp;Robber/org/academiadecodigo/splicegirls/CopRobber/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cop&amp;Robber/org/academiadecodigo/splicegirls/CopRobber/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CopRobber/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CopRobber/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CopRobber/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CopRobber/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cop&amp;Robber/org/academiadecodigo/splicegirls/CopRobber/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cop&amp;Robber/org/academiadecodigo/splicegirls/CopRobber/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cop&amp;Robber/org/academiadecodigo/splicegirls/CopRobber/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cop&amp;Robber/org/academiadecodigo/splicegirls/CopRobber/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cop&amp;Robber/org/academiadecodigo/splicegirls/CopRobber/PlayerCop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cop&amp;Robber/org/academiadecodigo/splicegirls/CopRobber/PlayerCop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cop&amp;Robber/org/academiadecodigo/splicegirls/CopRobber/PlayerRobber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cop&amp;Robber/org/academiadecodigo/splicegirls/CopRobber/PlayerRobber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cop&amp;Robber/org/academiadecodigo/splicegirls/CopRobber/Random.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cop&amp;Robber/org/academiadecodigo/splicegirls/CopRobber/Random.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CopRobber/Direction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CatchTheShroom/Other/Direction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CopRobber/Field.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CopRobber/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CopRobber/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CatchTheShroom/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CopRobber/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CopRobber/PlayerCop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CopRobber/PlayerRobber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CopRobber/Random.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/academiadecodigo/splicegirls/CatchTheShroom/Other/Random.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +47,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -24,19 +54,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1S6fOwaDHYRNrLmh9yoY2VKIEkl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1STVGUfzGJ8fSiVvsEqqugdW8Wy" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -51,13 +88,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.academiadecodigo.splicegirls.CopRobber.Main" />
-      <module name="Cop&amp;Robber" />
+      <option name="MAIN_CLASS_NAME" value="org.academiadecodigo.splicegirls.CatchTheShroom.Main" />
+      <module name="CatchTheShroom" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.academiadecodigo.splicegirls.CopRobber.*" />
+          <option name="PATTERN" value="org.academiadecodigo.splicegirls.CatchTheShroom.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,9 +102,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JavaSoundDemo.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/JavaSoundDemo.jar" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="JAR Application.JavaSoundDemo.jar" />
       </list>
     </recent_temporary>
   </component>
@@ -76,12 +118,14 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3a07d237-d9a4-4d92-bc80-9e611802a944" name="Default Changelist" comment="" />
-      <created>1570888937411</created>
+      <changelist id="c9f3500b-7c6e-4bb5-b3f3-305ef57cb0d2" name="Default Changelist" comment="" />
+      <created>1571587476748</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570888937411</updated>
-      <workItem from="1570888941536" duration="16196000" />
+      <updated>1571587476748</updated>
+      <workItem from="1571587477934" duration="3118000" />
+      <workItem from="1571595007807" duration="2285000" />
+      <workItem from="1576857824921" duration="190000" />
     </task>
     <servers />
   </component>
@@ -93,7 +137,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

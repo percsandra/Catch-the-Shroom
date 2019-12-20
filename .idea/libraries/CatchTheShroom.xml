@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CatchTheShroom">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/CatchTheShroom.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
